@@ -9,7 +9,7 @@ export default defineConfig({
     
     siteTitle: "猫影", // 网站标题
     
-    logo: '/images/logo.png', // logo
+    logo: '/logo.png', // logo
 
     // // 搜索
     // search: {
