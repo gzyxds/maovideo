@@ -9,7 +9,7 @@ export default defineConfig({
     
     siteTitle: "猫影", // 网站标题
     
-    logo: '/logo.png', // logo
+    logo: 'https://maovideo.oss-cn-guangzhou.aliyuncs.com/logo.png, // logo
 
     // // 搜索
     // search: {
