@@ -11,10 +11,10 @@ export default defineConfig({
     
     logo: '/images/logo.png', // logo
 
-    // 搜索
-    search: {
-      provider: 'local'
-    },
+    // // 搜索
+    // search: {
+    //   provider: 'local'
+    // },
 
     // 生成静态文件
     outDir: 'docs',
