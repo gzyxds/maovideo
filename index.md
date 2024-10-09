@@ -8,7 +8,7 @@ hero:
   tagline: 聚合全网在线高清影视剧免费看、热门短剧、电影、电视剧、综艺、动漫、你想看的全都有！
   
   image: 
-    src: .vitepress/images/logo.png
+    src: /logo.png
     alt: 猫影
     
   actions:
